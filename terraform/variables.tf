@@ -34,8 +34,8 @@ variable "tier" {
 }
 
 variable "vpc_id" {
-  default = "vpc-e1c3bd9c"
+  default = "vpc-09bd1185cf3126b75"
 }
 variable "public_subnets" {
-  default = ["subnet-ff163b99", "subnet-b1fe8f80"]
+  default = ["subnet-0a69a3297eaab04d5", "subnet-00b11ace0ee473970"]
 }
